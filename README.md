@@ -10,3 +10,9 @@ Phase 1: Web Scraping
   
   
 Phase 2: Data Cleaning and Transformation
+ - The primary aim of this process was to eradicate any missing values or incorrect values that may have been scraped from the web.
+ - The Pandas Data Frame was used excessivley to perform the various operations
+ - The data types were also modified and using regex the redundant data were removed. The clean data types were then added and exported
+ 
+ 
+Phas 3: Model Building
