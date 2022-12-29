@@ -16,3 +16,5 @@ Phase 2: Data Cleaning and Transformation
  
  
 Phas 3: Model Building
+- Using Poisson Distribuition the probablity were calculated. The parameters that were included were the goals scored and goals conceded. 
+- Two functions were created to update the table with the winner and to find the respective winners. There functions were used iteratively to find the winner 
